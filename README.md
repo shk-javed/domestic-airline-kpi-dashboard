@@ -41,8 +41,6 @@ It analyzes a dataset of 9,651 domestic flights across 12 airlines to extract me
 
 ![Dashboard](assets/dashboard.png)
 
----
-
 ## 🎯 Learning  
 
 - Data cleaning & transformation  
