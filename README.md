@@ -39,7 +39,7 @@ It analyzes a dataset of 9,651 domestic flights across 12 airlines to extract me
 
 ## 📸 Dashboard Preview  
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🎯 Learning  
 
